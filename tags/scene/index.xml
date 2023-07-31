@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>scene on Ramón Talvi Robledo</title>
+    <link>https://ramoncio6.github.io/tags/scene/</link>
+    <description>Recent content in scene on Ramón Talvi Robledo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 01 Jul 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://ramoncio6.github.io/tags/scene/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Leveraging Satellite Imagery to Assess Road Quality in the Democratic Republic of the Congo</title>
+      <link>https://ramoncio6.github.io/post/project-6/</link>
+      <pubDate>Sat, 01 Jul 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://ramoncio6.github.io/post/project-6/</guid>
+      <description>Abstract:
+We attempt to build a road quality classifier to detect bad roads using satellite imagery in the province of Sud-Kivu in the Democratic Republic of the Congo (DRC). We model our approach on existing literature but make a few deviations. Using 60 cm/pixel resolution from Google Earth, paired with 100 m IRI road quality data for Liberia, we train a CNN (EfficientNetV2) that performs with an accuracy of 47% for 5-classes and 80% for 2-classes (AUC: 0.</description>
+    </item>
+    
+    <item>
+      <title>Cascades of Losses from Financial Shocks in the International Cross-Holdings Network</title>
+      <link>https://ramoncio6.github.io/post/project-5/</link>
+      <pubDate>Thu, 01 Jun 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://ramoncio6.github.io/post/project-5/</guid>
+      <description>Abstract:
+This paper aims to examine the cascading effects of financial shocks at a macroeconomic level in a network of interconnected countries. Building upon the framework presented in Elliott, Golub, and Jackson 2014, which focused on microeconomic interconnections between individual firms, our objective is to adapt this model to analyze real-world financial interdependencies between countries. We present a theoretical analysis that captures the essence of the model, adjusting the variables to reflect the macro approach per country.</description>
+    </item>
+    
+    <item>
+      <title>The Role of Emotional Sentiment in Predicting the Popularity of Reddit Responses to Donald Trump’s Presidential Legacy</title>
+      <link>https://ramoncio6.github.io/post/project-4/</link>
+      <pubDate>Fri, 10 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://ramoncio6.github.io/post/project-4/</guid>
+      <description>Abstract:
+The initial stage of our research involves accessing the Reddit API to extract all responses -including metadata- from the post &amp;ldquo;Donald Trump has not made a single lasting positive impact on the USA during his term as president&amp;rdquo;. Subsequently, we undertake pre-processing activities such as handling missing values, stop word removal, tokenization, and lemmatization to construct the Document Term matrix. We then identify emotion analysis as a more suitable technique for forecasting document scores than sentiment and perform a descriptive analysis that relates emotion prevalence to document scores.</description>
+    </item>
+    
+  </channel>
+</rss>
